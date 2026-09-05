@@ -1,0 +1,85 @@
+MENÜYÜ NETLIFY'DA YAYINLAMA — ADIM ADIM
+========================================
+Süre: ~5 dakika. Ücretsiz. Kredi kartı istemez.
+
+
+ADIM 1 — Klasörü hazırla
+-------------------------
+Masaüstündeki  KOK Cafe Menu  klasöründe
+      kok-menu-site
+adında bir klasör var. İçinde tek bir index.html dosyası var.
+Bu klasörü yükleyeceğiz. (ZIP'i değil, KLASÖRÜN KENDİSİNİ.)
+
+
+ADIM 2 — Netlify'ı aç
+----------------------
+Tarayıcıda:   app.netlify.com/drop
+
+
+ADIM 3 — Sürükle bırak
+-----------------------
+kok-menu-site klasörünü tarayıcıdaki büyük kutuya sürükle bırak.
+Birkaç saniye içinde şuna benzer bir adres verir:
+
+      https://spontaneous-cupcake-a1b2c3.netlify.app
+
+Bu adres ÇALIŞIR. Hemen telefonda açıp deneyebilirsin.
+
+
+ADIM 4 — Adresi kalıcı yap (üye ol)
+------------------------------------
+Verdiği sayfada "Sign up to save your site" / "Claim your site"
+yazan düğmeye bas. Google veya e-posta ile ücretsiz üye ol.
+ÜYE OLMAZSAN ADRES BİR SÜRE SONRA SİLİNİR — bu adımı atlama.
+
+
+ADIM 5 — Adı düzelt
+--------------------
+Netlify panelinde:
+      Site configuration  →  Site details  →  Change site name
+
+Şunu yaz:      kokcafe
+Yeni adres:    https://kokcafe.netlify.app
+
+(kokcafe alınmışsa: kokcafeistinye, kokcafelounge, kok-istinye ...)
+
+
+ADIM 6 — Bana adresi söyle
+---------------------------
+Kesinleşen adresi bana yaz. Şunları yeniden üretirim:
+   • QR kodu (yeni adrese gidecek şekilde)
+   • Masa kartı PDF'ini
+Sonra bastırırsın.
+
+⚠ ÖNEMLİ: Şu an elindeki QR kod Claude adresine gidiyor.
+Netlify'a geçince O QR GEÇERSİZ OLUR. Bastırmak için
+yeni QR'ı benden almayı bekle.
+
+
+===========================================================
+MENÜYÜ SONRADAN GÜNCELLEMEK
+===========================================================
+1. Menüyü aç, arama kutusuna  yönetici  yaz, PIN gir (5053)
+2. Değişikliği yap (fiyat, ürün, fotoğraf, tükendi...)
+3. "Kaydet ve Yayınla" de → sana index.html dosyasını indirir
+4. app.netlify.com → siteni seç → Deploys sekmesi
+   → sayfanın altındaki kutuya yeni index.html'i sürükle bırak
+5. 10 saniye içinde canlıya geçer. QR kod aynı kalır.
+
+Bu, her güncellemede ~1 dakika sürer.
+Çok sık fiyat değiştireceksen bunu bana söyle — menüyü
+Claude adresinde tutup (tek dokunuşla kaydediliyor) Netlify'ı
+yalnızca yönlendirme için kullanmayı konuşabiliriz.
+
+
+===========================================================
+KENDİ ALAN ADINI SONRADAN EKLEMEK (opsiyonel)
+===========================================================
+kokcafe.com.tr gibi bir alan adı alırsan (Natro, İsimtescil,
+Turhost, Cloudflare vb. — yıllık birkaç yüz TL):
+
+   Netlify → Domain management → Add a domain
+   → alan adını yaz → Netlify sana DNS ayarlarını gösterir
+   → o ayarları alan adını aldığın yerin paneline gir
+
+Adres değişince yeni QR'ı yine ben üretirim.

@@ -1,0 +1,2892 @@
+[
+ {
+  "id": "kahvalti",
+  "tr": "Kahvaltı",
+  "en": "Breakfast",
+  "str": "Serpme, sahanda, omlet, gözleme",
+  "sen": "Spreads, pan eggs, omelettes, gözleme",
+  "g": [
+   {
+    "tr": "Kahvaltı Tabakları",
+    "en": "Breakfast Plates",
+    "i": [
+     {
+      "n": "Kahvaltı Tabağı",
+      "ne": "Breakfast Plate",
+      "p": 650,
+      "d": "Beyaz peynir, çeçil peyniri, kaşar, salam, yeşil–siyah zeytin, reçel, Nutella, tereyağı, sivri biber, haşlanmış yumurta, domates, salatalık",
+      "de": "White cheese, chechil cheese, cheddar, salami, green & black olives, jam, Nutella, butter, green pepper, boiled egg, tomato, cucumber",
+      "ing": "Beyaz peynir, çeçil peyniri, kaşar, salam, yeşil–siyah zeytin, reçel, Nutella, tereyağı, sivri biber, haşlanmış yumurta, domates, salatalık",
+      "inge": "White cheese, chechil cheese, cheddar, salami, green & black olives, jam, Nutella, butter, green pepper, boiled egg, tomato, cucumber",
+      "a": [
+       "M",
+       "Y",
+       "N"
+      ],
+      "ic": "plate"
+     },
+     {
+      "n": "Serpme Kahvaltı (2 Kişilik)",
+      "ne": "Spread Breakfast (for 2)",
+      "p": 1350,
+      "d": "Peynir tabağı, şarküteri tabağı, reçel çeşitleri, bal, kaymak, tereyağı, Nutella, domates, salatalık, roka söğüş, pişi, sahanda yumurta, patates–sosis",
+      "de": "Cheese platter, charcuterie platter, assorted jams, honey, clotted cream, butter, Nutella, tomato, cucumber, arugula, pişi, fried egg, potatoes & sausage",
+      "ing": "Peynir tabağı, şarküteri tabağı, reçel çeşitleri, bal, kaymak, tereyağı, Nutella, domates, salatalık, roka söğüş, pişi, sahanda yumurta, patates–sosis",
+      "inge": "Cheese platter, charcuterie platter, assorted jams, honey, clotted cream, butter, Nutella, tomato, cucumber, arugula, pişi, fried egg, potatoes & sausage",
+      "a": [
+       "G",
+       "M",
+       "Y",
+       "N"
+      ],
+      "ic": "plate"
+     }
+    ]
+   },
+   {
+    "tr": "Sahanda",
+    "en": "From the Pan",
+    "i": [
+     {
+      "n": "Sahanda Tereyağlı Göz Yumurta",
+      "ne": "Fried Eggs with Butter",
+      "p": 290,
+      "ing": "Yumurta, tereyağı",
+      "inge": "Egg, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Kavurmalı Yumurta",
+      "ne": "Eggs with Roasted Meat",
+      "p": 450,
+      "ing": "Yumurta, et kavurma, tereyağı",
+      "inge": "Egg, roasted meat, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Sucuklu Yumurta",
+      "ne": "Eggs with Sucuk",
+      "p": 360,
+      "ing": "Yumurta, sucuk, tereyağı",
+      "inge": "Egg, sucuk, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Sahanda Sucuk",
+      "ne": "Pan-Fried Sucuk",
+      "p": 375,
+      "ing": "Sucuk, tereyağı",
+      "inge": "Sucuk, butter",
+      "a": [
+       "M"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Sade Menemen",
+      "ne": "Plain Menemen",
+      "p": 350,
+      "ing": "Yumurta, domates, sivri biber, tereyağı",
+      "inge": "Egg, tomato, green pepper, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Karışık Menemen",
+      "ne": "Mixed Menemen",
+      "p": 400,
+      "ing": "Yumurta, domates, sivri biber, sucuk, kaşar peyniri, tereyağı",
+      "inge": "Egg, tomato, green pepper, sucuk, cheddar, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "egg"
+     },
+     {
+      "n": "Mıhlama",
+      "ne": "Mıhlama",
+      "p": 450,
+      "ing": "Mısır unu, tereyağı, kolot/dil peyniri",
+      "inge": "Corn flour, butter, kolot cheese",
+      "a": [
+       "M"
+      ],
+      "ic": "egg"
+     }
+    ]
+   },
+   {
+    "tr": "Omlet Çeşitleri",
+    "en": "Omelettes",
+    "i": [
+     {
+      "n": "Sade Omlet",
+      "ne": "Plain Omelette",
+      "p": 300,
+      "ing": "Yumurta, tereyağı",
+      "inge": "Egg, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Peynirli",
+      "ne": "Cheese",
+      "p": 350,
+      "ing": "Yumurta, beyaz peynir, tereyağı",
+      "inge": "Egg, white cheese, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Karışık",
+      "ne": "Mixed",
+      "p": 400,
+      "ing": "Yumurta, kaşar peyniri, sucuk, mantar, biber",
+      "inge": "Egg, cheddar, sucuk, mushroom, pepper",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Peynirli Maydanozlu",
+      "ne": "Cheese & Parsley",
+      "p": 350,
+      "ing": "Yumurta, beyaz peynir, maydanoz",
+      "inge": "Egg, white cheese, parsley",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Kaşar Mantarlı",
+      "ne": "Cheddar & Mushroom",
+      "p": 350,
+      "ing": "Yumurta, kaşar peyniri, mantar",
+      "inge": "Egg, cheddar, mushroom",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Mantarlı",
+      "ne": "Mushroom",
+      "p": 350,
+      "ing": "Yumurta, mantar, tereyağı",
+      "inge": "Egg, mushroom, butter",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "omelette"
+     },
+     {
+      "n": "Sebzeli",
+      "ne": "Vegetable",
+      "p": 350,
+      "ing": "Yumurta, biber, domates, mantar, soğan",
+      "inge": "Egg, pepper, tomato, mushroom, onion",
+      "a": [
+       "Y"
+      ],
+      "ic": "omelette"
+     }
+    ]
+   },
+   {
+    "tr": "Seçme Kahvaltılıklar",
+    "en": "Breakfast Selections",
+    "i": [
+     {
+      "n": "Peynir Tabağı",
+      "ne": "Cheese Plate",
+      "p": 380,
+      "ing": "Beyaz peynir, kaşar peyniri, çeçil peyniri",
+      "inge": "White cheese, cheddar, chechil cheese",
+      "a": [
+       "M"
+      ],
+      "ic": "cheeseplate"
+     },
+     {
+      "n": "Bal Kaymak",
+      "ne": "Honey & Clotted Cream",
+      "p": 250,
+      "ing": "Bal, kaymak",
+      "inge": "Honey, clotted cream",
+      "a": [
+       "M"
+      ],
+      "ic": "olive"
+     },
+     {
+      "n": "Yeşil–Siyah Zeytin Tabağı",
+      "ne": "Green & Black Olive Plate",
+      "p": 200,
+      "ing": "Yeşil zeytin, siyah zeytin, zeytinyağı",
+      "inge": "Green olives, black olives, olive oil",
+      "ic": "olive"
+     },
+     {
+      "n": "Domates Salatalık Söğüş",
+      "ne": "Tomato & Cucumber Plate",
+      "p": 350,
+      "ing": "Domates, salatalık, maydanoz",
+      "inge": "Tomato, cucumber, parsley",
+      "ic": "olive"
+     }
+    ]
+   },
+   {
+    "tr": "Gözleme Çeşitleri",
+    "en": "Gözleme",
+    "i": [
+     {
+      "n": "Kaşarlı",
+      "ne": "Cheddar",
+      "p": 400,
+      "ing": "Gözleme hamuru, kaşar peyniri",
+      "inge": "Gözleme dough, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "gozleme"
+     },
+     {
+      "n": "Beyaz Peynirli",
+      "ne": "White Cheese",
+      "p": 400,
+      "ing": "Gözleme hamuru, beyaz peynir, maydanoz",
+      "inge": "Gözleme dough, white cheese, parsley",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "gozleme"
+     },
+     {
+      "n": "Patatesli",
+      "ne": "Potato",
+      "p": 400,
+      "ing": "Gözleme hamuru, patates, baharat",
+      "inge": "Gözleme dough, potato, spices",
+      "a": [
+       "G"
+      ],
+      "ic": "gozleme"
+     },
+     {
+      "n": "Kaşarlı Kavurmalı",
+      "ne": "Cheddar & Roasted Meat",
+      "p": 480,
+      "ing": "Gözleme hamuru, kaşar peyniri, et kavurma",
+      "inge": "Gözleme dough, cheddar, roasted meat",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "gozleme"
+     },
+     {
+      "n": "Kaşarlı Sucuklu",
+      "ne": "Cheddar & Sucuk",
+      "p": 450,
+      "ing": "Gözleme hamuru, kaşar peyniri, sucuk",
+      "inge": "Gözleme dough, cheddar, sucuk",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "gozleme"
+     }
+    ]
+   }
+  ],
+  "t": 1
+ },
+ {
+  "id": "baslangic",
+  "tr": "Başlangıçlar",
+  "en": "Starters",
+  "str": "Çorba, ara sıcaklar, salatalar",
+  "sen": "Soup, hot appetizers, salads",
+  "g": [
+   {
+    "tr": "Çorba",
+    "en": "Soup",
+    "i": [
+     {
+      "n": "Günün Çorbası",
+      "ne": "Soup of the Day",
+      "p": 150,
+      "ing": "Günlük değişir — servis ekibimize danışınız",
+      "inge": "Changes daily — please ask our team",
+      "ic": "soup"
+     }
+    ]
+   },
+   {
+    "tr": "Ara Sıcaklar",
+    "en": "Hot Appetizers",
+    "i": [
+     {
+      "n": "Elma Dilim Patates",
+      "ne": "Potato Wedges",
+      "p": 350,
+      "ing": "Patates, baharat",
+      "inge": "Potato, spices",
+      "ic": "fries"
+     },
+     {
+      "n": "Parmak Patates",
+      "ne": "French Fries",
+      "p": 330,
+      "ing": "Patates, tuz",
+      "inge": "Potato, salt",
+      "ic": "fries"
+     },
+     {
+      "n": "Paçanga Böreği",
+      "ne": "Paçanga Böreği",
+      "p": 420,
+      "ing": "Yufka, pastırma, kaşar peyniri, biber, domates",
+      "inge": "Yufka pastry, pastırma, cheddar, pepper, tomato",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "borek"
+     },
+     {
+      "n": "Sigara Böreği",
+      "ne": "Cheese Rolls",
+      "p": 350,
+      "ing": "Yufka, beyaz peynir, maydanoz",
+      "inge": "Yufka pastry, white cheese, parsley",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "combo"
+     },
+     {
+      "n": "Tereyağlı Karides",
+      "ne": "Butter Shrimp",
+      "p": 750,
+      "ing": "Karides, tereyağı, sarımsak, limon",
+      "inge": "Shrimp, butter, garlic, lemon",
+      "a": [
+       "M",
+       "K"
+      ],
+      "ic": "shrimp"
+     },
+     {
+      "n": "Çıtır Tavuk Sepeti",
+      "ne": "Crispy Chicken Basket",
+      "p": 590,
+      "ing": "Tavuk göğsü, galeta unu, baharat, patates",
+      "inge": "Chicken breast, breadcrumbs, spices, potato",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "chicken"
+     },
+     {
+      "n": "Combo Tabağı",
+      "ne": "Combo Plate",
+      "p": 550,
+      "d": "Sosis, nugget, parmak patates, kroket, sigara böreği, soğan halkası",
+      "de": "Sausage, nuggets, fries, croquettes, cheese rolls, onion rings",
+      "ing": "Sosis, nugget, parmak patates, kroket, sigara böreği, soğan halkası",
+      "inge": "Sausage, nuggets, fries, croquettes, cheese rolls, onion rings",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "fries"
+     }
+    ]
+   },
+   {
+    "tr": "Salatalar",
+    "en": "Salads",
+    "i": [
+     {
+      "n": "Mevsim Salata",
+      "ne": "Seasonal Salad",
+      "p": 350,
+      "ing": "Marul, domates, salatalık, havuç, mısır, zeytinyağı, limon",
+      "inge": "Lettuce, tomato, cucumber, carrot, corn, olive oil, lemon",
+      "ic": "salad"
+     },
+     {
+      "n": "Çoban Salata",
+      "ne": "Shepherd's Salad",
+      "p": 350,
+      "ing": "Domates, salatalık, soğan, biber, maydanoz, zeytinyağı",
+      "inge": "Tomato, cucumber, onion, pepper, parsley, olive oil",
+      "ic": "salad"
+     },
+     {
+      "n": "Peynirli Roka Salatası",
+      "ne": "Arugula Salad with Cheese",
+      "p": 400,
+      "ing": "Roka, beyaz peynir, çeri domates, zeytinyağı, nar ekşisi",
+      "inge": "Arugula, white cheese, cherry tomato, olive oil, pomegranate molasses",
+      "a": [
+       "M"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Sezar Salata",
+      "ne": "Warm Caesar Salad",
+      "p": 550,
+      "ing": "Marul, ızgara tavuk, parmesan, kruton, sezar sos",
+      "inge": "Lettuce, grilled chicken, parmesan, croutons, Caesar dressing",
+      "a": [
+       "G",
+       "M",
+       "Y",
+       "B"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Hellim Salatası",
+      "ne": "Warm Halloumi Salad",
+      "p": 480,
+      "ing": "Hellim peyniri, karışık yeşillik, çeri domates, zeytinyağı",
+      "inge": "Halloumi, mixed greens, cherry tomato, olive oil",
+      "a": [
+       "M"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Ton Balıklı Salata",
+      "ne": "Tuna Salad",
+      "p": 580,
+      "ing": "Ton balığı, marul, mısır, kırmızı soğan, zeytin, limon",
+      "inge": "Tuna, lettuce, corn, red onion, olives, lemon",
+      "a": [
+       "B"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Çıtır Tavuk Salatası",
+      "ne": "Warm Crispy Chicken Salad",
+      "p": 600,
+      "ing": "Çıtır tavuk, karışık yeşillik, çeri domates, sos",
+      "inge": "Crispy chicken, mixed greens, cherry tomato, dressing",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Bombay Salatası",
+      "ne": "Warm Bombay Salad",
+      "p": 585,
+      "d": "Köri ve soya soslu tavuk",
+      "de": "Chicken with curry and soy sauce",
+      "ing": "Köri ve soya soslu tavuk",
+      "inge": "Chicken with curry and soy sauce",
+      "a": [
+       "S"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Steak Salatası",
+      "ne": "Warm Steak Salad",
+      "p": 670,
+      "d": "Mantar ve soya soslu et",
+      "de": "Beef with mushrooms and soy sauce",
+      "ing": "Mantar ve soya soslu et",
+      "inge": "Beef with mushrooms and soy sauce",
+      "a": [
+       "S"
+      ],
+      "ic": "salad"
+     },
+     {
+      "n": "Sıcak Thai Salatası",
+      "ne": "Warm Thai Salad",
+      "p": 570,
+      "d": "Soya soslu tavuk",
+      "de": "Chicken with soy sauce",
+      "ing": "Soya soslu tavuk",
+      "inge": "Chicken with soy sauce",
+      "a": [
+       "S"
+      ],
+      "ic": "salad"
+     }
+    ]
+   }
+  ],
+  "t": 2
+ },
+ {
+  "id": "ana",
+  "tr": "Ana Yemekler",
+  "en": "Main Dishes",
+  "str": "Izgara, güveç, sote, makarna",
+  "sen": "Grill, casseroles, sauté, pasta",
+  "g": [
+   {
+    "tr": "Izgara Çeşitleri",
+    "en": "From the Grill",
+    "i": [
+     {
+      "n": "Barbekü Soslu Antrikot Izgara",
+      "ne": "Grilled Entrecôte with BBQ Sauce",
+      "p": 950,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "ic": "steak"
+     },
+     {
+      "n": "Antrikot Izgara",
+      "ne": "Grilled Entrecôte",
+      "p": 925,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "ic": "steak"
+     },
+     {
+      "n": "Izgara Köfte",
+      "ne": "Grilled Meatballs",
+      "p": 800,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "meatball"
+     },
+     {
+      "n": "Kaşarlı Köfte",
+      "ne": "Meatballs with Cheddar",
+      "p": 830,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "meatball"
+     },
+     {
+      "n": "Mantar Soslu Tavuk Izgara",
+      "ne": "Grilled Chicken with Mushroom Sauce",
+      "p": 680,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "ic": "chicken"
+     },
+     {
+      "n": "Dağ Kekikli Tavuk Izgara",
+      "ne": "Grilled Chicken with Mountain Thyme",
+      "p": 720,
+      "d": "Mantar, biber ve mozzarella peyniri",
+      "de": "Mushroom, peppers and mozzarella",
+      "ing": "Mantar, biber ve mozzarella peyniri",
+      "inge": "Mushroom, peppers and mozzarella",
+      "a": [
+       "M",
+       "Y"
+      ],
+      "ic": "chicken"
+     },
+     {
+      "n": "Izgara Tavuk Pirzola (But)",
+      "ne": "Grilled Chicken Chop (Thigh)",
+      "p": 700,
+      "d": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "de": "Served with rice, mashed potatoes and Kök sauce",
+      "ing": "Pilav, patates püresi ve Kök sos eşliğinde",
+      "inge": "Served with rice, mashed potatoes and Kök sauce",
+      "ic": "chicken"
+     },
+     {
+      "n": "Kremalı Mantarlı Tavuk Izgara",
+      "ne": "Grilled Chicken with Creamy Mushrooms",
+      "p": 680,
+      "d": "Mantar, krema, pilav ve patates püresi",
+      "de": "Mushrooms, cream, rice and mashed potatoes",
+      "ing": "Mantar, krema, pilav ve patates püresi",
+      "inge": "Mushrooms, cream, rice and mashed potatoes",
+      "a": [
+       "M"
+      ],
+      "ic": "chicken"
+     },
+     {
+      "n": "Tavuk Şinitzel",
+      "ne": "Chicken Schnitzel",
+      "p": 680,
+      "d": "Pilav, patates püresi, tereyağı, limon, karışık yeşillik",
+      "de": "Rice, mashed potatoes, butter, lemon, mixed greens",
+      "ing": "Pilav, patates püresi, tereyağı, limon, karışık yeşillik",
+      "inge": "Rice, mashed potatoes, butter, lemon, mixed greens",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "chicken"
+     }
+    ]
+   },
+   {
+    "tr": "Güveç & Fajita",
+    "en": "Casseroles & Fajitas",
+    "i": [
+     {
+      "n": "KÖK Special Etli Güveç",
+      "ne": "KÖK Special Beef Casserole",
+      "p": 850,
+      "s": 1,
+      "d": "Arpacık soğan, sarımsak, mantar, çeri domates ve pilav eşliğinde",
+      "de": "Shallots, garlic, mushrooms, cherry tomatoes, served with rice",
+      "ing": "Arpacık soğan, sarımsak, mantar, çeri domates ve pilav eşliğinde",
+      "inge": "Shallots, garlic, mushrooms, cherry tomatoes, served with rice",
+      "a": [
+       "G"
+      ],
+      "ic": "pot"
+     },
+     {
+      "n": "KÖK Special Tavuklu Güveç",
+      "ne": "KÖK Special Chicken Casserole",
+      "p": 720,
+      "s": 1,
+      "d": "Arpacık soğan, sarımsak, mantar, çeri domates ve pilav eşliğinde",
+      "de": "Shallots, garlic, mushrooms, cherry tomatoes, served with rice",
+      "ing": "Arpacık soğan, sarımsak, mantar, çeri domates ve pilav eşliğinde",
+      "inge": "Shallots, garlic, mushrooms, cherry tomatoes, served with rice",
+      "a": [
+       "G"
+      ],
+      "ic": "pot"
+     },
+     {
+      "n": "Et Fajita",
+      "ne": "Beef Fajita",
+      "p": 880,
+      "d": "Bonfile et parçaları, renkli biberler, jülyen soğan, ekşi krema, salsa ve avokado sos",
+      "de": "Tenderloin strips, bell peppers, julienne onion, sour cream, salsa and avocado sauce",
+      "ing": "Bonfile et parçaları, renkli biberler, jülyen soğan, ekşi krema, salsa ve avokado sos",
+      "inge": "Tenderloin strips, bell peppers, julienne onion, sour cream, salsa and avocado sauce",
+      "a": [
+       "M"
+      ],
+      "ic": "pot"
+     },
+     {
+      "n": "Tavuk Fajita",
+      "ne": "Chicken Fajita",
+      "p": 730,
+      "d": "Bonfile tavuk parçaları, renkli biberler, jülyen soğan, ekşi krema, salsa ve avokado sos",
+      "de": "Chicken strips, bell peppers, julienne onion, sour cream, salsa and avocado sauce",
+      "ing": "Bonfile tavuk parçaları, renkli biberler, jülyen soğan, ekşi krema, salsa ve avokado sos",
+      "inge": "Chicken strips, bell peppers, julienne onion, sour cream, salsa and avocado sauce",
+      "a": [
+       "M"
+      ],
+      "ic": "pot"
+     }
+    ]
+   },
+   {
+    "tr": "Tavuk & Et",
+    "en": "Chicken & Beef",
+    "i": [
+     {
+      "n": "Köri Soslu Tavuk",
+      "ne": "Chicken with Curry Sauce",
+      "p": 650,
+      "d": "Pilav, patates ve yeşillik eşliğinde",
+      "de": "Served with rice, potatoes and greens",
+      "ing": "Pilav, patates ve yeşillik eşliğinde",
+      "inge": "Served with rice, potatoes and greens",
+      "ic": "chicken"
+     },
+     {
+      "n": "Barbekü Soslu Tavuk",
+      "ne": "Chicken with BBQ Sauce",
+      "p": 660,
+      "d": "Pilav, patates ve yeşillik eşliğinde",
+      "de": "Served with rice, potatoes and greens",
+      "ing": "Pilav, patates ve yeşillik eşliğinde",
+      "inge": "Served with rice, potatoes and greens",
+      "ic": "chicken"
+     },
+     {
+      "n": "Soya Soslu Tavuk",
+      "ne": "Chicken with Soy Sauce",
+      "p": 650,
+      "d": "Pilav, patates ve yeşillik eşliğinde",
+      "de": "Served with rice, potatoes and greens",
+      "ing": "Pilav, patates ve yeşillik eşliğinde",
+      "inge": "Served with rice, potatoes and greens",
+      "a": [
+       "S"
+      ],
+      "ic": "chicken"
+     },
+     {
+      "n": "Susamlı Tavuk",
+      "ne": "Sesame Chicken",
+      "p": 640,
+      "d": "Mantar, biber, soğan ve krema",
+      "de": "Mushrooms, peppers, onions and cream",
+      "ing": "Mantar, biber, soğan ve krema",
+      "inge": "Mushrooms, peppers, onions and cream",
+      "a": [
+       "M",
+       "SS"
+      ],
+      "ic": "chicken"
+     },
+     {
+      "n": "Meksika Soslu Tavuk",
+      "ne": "Chicken with Mexican Sauce",
+      "p": 680,
+      "d": "Pilav, patates ve yeşillik eşliğinde",
+      "de": "Served with rice, potatoes and greens",
+      "ing": "Pilav, patates ve yeşillik eşliğinde",
+      "inge": "Served with rice, potatoes and greens",
+      "ic": "chicken"
+     },
+     {
+      "n": "Çökertme Kebabı",
+      "ne": "Çökertme Kebab",
+      "p": 800,
+      "ing": "Dana bonfile, kibrit patates, yoğurt, tereyağlı domates sos",
+      "inge": "Beef tenderloin, straw potatoes, yoghurt, buttered tomato sauce",
+      "a": [
+       "M"
+      ],
+      "ic": "steak"
+     },
+     {
+      "n": "Et Sote",
+      "ne": "Sautéed Beef",
+      "p": 820,
+      "d": "Pilav eşliğinde",
+      "de": "Served with rice",
+      "ing": "Pilav eşliğinde",
+      "inge": "Served with rice",
+      "ic": "steak"
+     },
+     {
+      "n": "Tavuk Sote",
+      "ne": "Sautéed Chicken",
+      "p": 690,
+      "d": "Pilav eşliğinde",
+      "de": "Served with rice",
+      "ing": "Pilav eşliğinde",
+      "inge": "Served with rice",
+      "ic": "chicken"
+     }
+    ]
+   },
+   {
+    "tr": "Deniz Ürünleri",
+    "en": "Seafood",
+    "i": [
+     {
+      "n": "Karides Güveç",
+      "ne": "Shrimp Casserole",
+      "p": 750,
+      "ing": "Karides, mantar, kaşar peyniri, tereyağlı domates sos",
+      "inge": "Shrimp, mushroom, cheddar, buttered tomato sauce",
+      "a": [
+       "M",
+       "K"
+      ],
+      "ic": "shrimp"
+     }
+    ]
+   },
+   {
+    "tr": "Makarnalar",
+    "en": "Pasta",
+    "i": [
+     {
+      "n": "Fettuccine Alfredo",
+      "ne": "Fettuccine Alfredo",
+      "p": 550,
+      "ing": "Fettuccine, krema, parmesan, tereyağı",
+      "inge": "Fettuccine, cream, parmesan, butter",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "Spaghetti Bolognese",
+      "ne": "Spaghetti Bolognese",
+      "p": 550,
+      "ing": "Spagetti, dana kıyma, domates sos, parmesan",
+      "inge": "Spaghetti, minced beef, tomato sauce, parmesan",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "Penne Arrabbiata",
+      "ne": "Penne Arrabbiata",
+      "p": 430,
+      "ing": "Penne, domates sos, sarımsak, acı biber",
+      "inge": "Penne, tomato sauce, garlic, chilli",
+      "a": [
+       "G"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "Köri Soslu Tavuklu Penne",
+      "ne": "Penne with Curry Chicken",
+      "p": 550,
+      "ing": "Penne, tavuk, köri, krema",
+      "inge": "Penne, chicken, curry, cream",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "Penne Chicken Mushroom",
+      "ne": "Penne Chicken Mushroom",
+      "p": 540,
+      "ing": "Penne, tavuk, mantar, krema",
+      "inge": "Penne, chicken, mushroom, cream",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "Pesto Chicken Penne",
+      "ne": "Pesto Chicken Penne",
+      "p": 500,
+      "ing": "Penne, tavuk, fesleğen pesto, parmesan",
+      "inge": "Penne, chicken, basil pesto, parmesan",
+      "a": [
+       "G",
+       "M",
+       "N"
+      ],
+      "ic": "pasta"
+     },
+     {
+      "n": "La Carne Makarna",
+      "ne": "La Carne Pasta",
+      "p": 580,
+      "d": "Et, mantar, krema",
+      "de": "Beef, mushroom, cream",
+      "ing": "Et, mantar, krema",
+      "inge": "Beef, mushroom, cream",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "pasta"
+     }
+    ]
+   }
+  ],
+  "t": 3
+ },
+ {
+  "id": "burger",
+  "tr": "Burger & Dürüm",
+  "en": "Burgers & Wraps",
+  "str": "Hamburger, dürüm, quesadilla",
+  "sen": "Burgers, wraps, quesadillas",
+  "g": [
+   {
+    "tr": "Hamburger",
+    "en": "Burgers",
+    "i": [
+     {
+      "n": "Hamburger",
+      "ne": "Hamburger",
+      "p": 600,
+      "ing": "Dana köfte, burger ekmeği, marul, domates, soğan, turşu, sos",
+      "inge": "Beef patty, burger bun, lettuce, tomato, onion, pickle, sauce",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Cheeseburger",
+      "ne": "Cheeseburger",
+      "p": 650,
+      "ing": "Dana köfte, cheddar peyniri, burger ekmeği, marul, domates, soğan, turşu",
+      "inge": "Beef patty, cheddar, burger bun, lettuce, tomato, onion, pickle",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Meksika Burger",
+      "ne": "Mexican Burger",
+      "p": 670,
+      "d": "Acı sos, dilim zeytin, mısır, cheddar peyniri",
+      "de": "Hot sauce, sliced olives, corn, cheddar",
+      "ing": "Acı sos, dilim zeytin, mısır, cheddar peyniri",
+      "inge": "Hot sauce, sliced olives, corn, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Mushroom Burger",
+      "ne": "Mushroom Burger",
+      "p": 675,
+      "d": "Mantar, krema",
+      "de": "Mushroom, cream",
+      "ing": "Mantar, krema",
+      "inge": "Mushroom, cream",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Çıtır Tavuk Burger",
+      "ne": "Crispy Chicken Burger",
+      "p": 570,
+      "ing": "Çıtır tavuk, burger ekmeği, marul, domates, mayonez",
+      "inge": "Crispy chicken, burger bun, lettuce, tomato, mayonnaise",
+      "a": [
+       "G",
+       "Y",
+       "H"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Barbekü Soslu Burger",
+      "ne": "BBQ Burger",
+      "p": 670,
+      "ing": "Dana köfte, barbekü sos, cheddar, burger ekmeği, marul, soğan",
+      "inge": "Beef patty, BBQ sauce, cheddar, burger bun, lettuce, onion",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "burger"
+     },
+     {
+      "n": "Kök Burger",
+      "ne": "Kök Burger",
+      "p": 700,
+      "s": 1,
+      "d": "Jülyen et parçaları, karamelize soğan, cheddar peyniri",
+      "de": "Julienne beef, caramelised onion, cheddar",
+      "ing": "Jülyen et parçaları, karamelize soğan, cheddar peyniri",
+      "inge": "Julienne beef, caramelised onion, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "burger"
+     }
+    ]
+   },
+   {
+    "tr": "Dürümler",
+    "en": "Wraps",
+    "i": [
+     {
+      "n": "Et Dürüm",
+      "ne": "Beef Wrap",
+      "p": 750,
+      "ing": "Dana et, lavaş, domates, soğan, maydanoz, sos",
+      "inge": "Beef, lavash, tomato, onion, parsley, sauce",
+      "a": [
+       "G"
+      ],
+      "ic": "wrap"
+     },
+     {
+      "n": "Tavuk Dürüm",
+      "ne": "Chicken Wrap",
+      "p": 550,
+      "ing": "Tavuk, lavaş, domates, soğan, maydanoz, sos",
+      "inge": "Chicken, lavash, tomato, onion, parsley, sauce",
+      "a": [
+       "G"
+      ],
+      "ic": "wrap"
+     },
+     {
+      "n": "Köfte Dürüm",
+      "ne": "Meatball Wrap",
+      "p": 680,
+      "ing": "Köfte, lavaş, domates, soğan, maydanoz, sos",
+      "inge": "Meatballs, lavash, tomato, onion, parsley, sauce",
+      "a": [
+       "G",
+       "Y"
+      ],
+      "ic": "wrap"
+     }
+    ]
+   },
+   {
+    "tr": "Quesadilla",
+    "en": "Quesadilla",
+    "i": [
+     {
+      "n": "Etli Quesadilla",
+      "ne": "Beef Quesadilla",
+      "p": 770,
+      "ing": "Tortilla, dana et, cheddar peyniri, renkli biber, soğan",
+      "inge": "Tortilla, beef, cheddar, bell peppers, onion",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "wrap"
+     },
+     {
+      "n": "Tavuklu Quesadilla",
+      "ne": "Chicken Quesadilla",
+      "p": 650,
+      "ing": "Tortilla, tavuk, cheddar peyniri, renkli biber, soğan",
+      "inge": "Tortilla, chicken, cheddar, bell peppers, onion",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "wrap"
+     }
+    ]
+   }
+  ],
+  "t": 4
+ },
+ {
+  "id": "firin",
+  "tr": "Pizza & Pide",
+  "en": "Pizza & Pide",
+  "str": "Taş fırından pizza, pide ve tostlar",
+  "sen": "Stone-oven pizza, pide and toasties",
+  "g": [
+   {
+    "tr": "Pizzalar",
+    "en": "Pizzas",
+    "i": [
+     {
+      "n": "Margarita",
+      "ne": "Margherita",
+      "p": 530,
+      "d": "Domates sos, mozzarella peyniri",
+      "de": "Tomato sauce, mozzarella",
+      "ing": "Domates sos, mozzarella peyniri",
+      "inge": "Tomato sauce, mozzarella",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pizza"
+     },
+     {
+      "n": "Vejetaryen Pizza",
+      "ne": "Vegetarian Pizza",
+      "p": 580,
+      "d": "Domates sos, mozzarella, kabak, havuç, mantar, mısır, yeşil biber",
+      "de": "Tomato sauce, mozzarella, zucchini, carrot, mushroom, corn, green pepper",
+      "ing": "Domates sos, mozzarella, kabak, havuç, mantar, mısır, yeşil biber",
+      "inge": "Tomato sauce, mozzarella, zucchini, carrot, mushroom, corn, green pepper",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pizza"
+     },
+     {
+      "n": "Pizza Milano",
+      "ne": "Pizza Milano",
+      "p": 620,
+      "d": "Domates sos, mozzarella, sucuk, mantar",
+      "de": "Tomato sauce, mozzarella, sucuk, mushroom",
+      "ing": "Domates sos, mozzarella, sucuk, mantar",
+      "inge": "Tomato sauce, mozzarella, sucuk, mushroom",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pizza"
+     },
+     {
+      "n": "Pizza Mista",
+      "ne": "Pizza Mista",
+      "p": 650,
+      "d": "Domates sos, mozzarella, sosis, sucuk, salam, renkli biberler, mısır, mantar, dilim siyah zeytin",
+      "de": "Tomato sauce, mozzarella, sausage, sucuk, salami, bell peppers, corn, mushroom, black olives",
+      "ing": "Domates sos, mozzarella, sosis, sucuk, salam, renkli biberler, mısır, mantar, dilim siyah zeytin",
+      "inge": "Tomato sauce, mozzarella, sausage, sucuk, salami, bell peppers, corn, mushroom, black olives",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pizza"
+     },
+     {
+      "n": "Ton Balıklı Pizza",
+      "ne": "Tuna Pizza",
+      "p": 620,
+      "d": "Domates sos, mozzarella, ton balığı, mısır, kırmızı soğan, siyah zeytin",
+      "de": "Tomato sauce, mozzarella, tuna, corn, red onion, black olives",
+      "ing": "Domates sos, mozzarella, ton balığı, mısır, kırmızı soğan, siyah zeytin",
+      "inge": "Tomato sauce, mozzarella, tuna, corn, red onion, black olives",
+      "a": [
+       "G",
+       "M",
+       "B"
+      ],
+      "ic": "pizza"
+     },
+     {
+      "n": "Napolitan Pizza",
+      "ne": "Napolitan Pizza",
+      "p": 620,
+      "d": "Domates sos, mozzarella, jambon, mantar, renkli biberler",
+      "de": "Tomato sauce, mozzarella, ham, mushroom, bell peppers",
+      "ing": "Domates sos, mozzarella, jambon, mantar, renkli biberler",
+      "inge": "Tomato sauce, mozzarella, ham, mushroom, bell peppers",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pizza"
+     }
+    ]
+   },
+   {
+    "tr": "Pideler",
+    "en": "Pides",
+    "i": [
+     {
+      "n": "Kaşarlı",
+      "ne": "Cheddar",
+      "p": 500,
+      "ing": "Pide hamuru, kaşar peyniri",
+      "inge": "Pide dough, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pide"
+     },
+     {
+      "n": "Sucuklu",
+      "ne": "Sucuk",
+      "p": 580,
+      "ing": "Pide hamuru, sucuk, kaşar peyniri",
+      "inge": "Pide dough, sucuk, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pide"
+     },
+     {
+      "n": "Kıymalı",
+      "ne": "Minced Meat",
+      "p": 600,
+      "ing": "Pide hamuru, dana kıyma, biber, domates",
+      "inge": "Pide dough, minced beef, pepper, tomato",
+      "a": [
+       "G"
+      ],
+      "ic": "pide"
+     },
+     {
+      "n": "Kavurmalı",
+      "ne": "Roasted Meat",
+      "p": 650,
+      "ing": "Pide hamuru, et kavurma, kaşar peyniri",
+      "inge": "Pide dough, roasted meat, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "pide"
+     },
+     {
+      "n": "Karışık Pide",
+      "ne": "Mixed Pide",
+      "p": 700,
+      "ing": "Pide hamuru, kıyma, sucuk, kaşar peyniri, yumurta",
+      "inge": "Pide dough, mince, sucuk, cheddar, egg",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "pide"
+     }
+    ]
+   },
+   {
+    "tr": "Tostlar",
+    "en": "Toasties",
+    "i": [
+     {
+      "n": "Kaşarlı",
+      "ne": "Cheddar",
+      "p": 390,
+      "ing": "Tost ekmeği, kaşar peyniri, tereyağı",
+      "inge": "Toast bread, cheddar, butter",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "toast"
+     },
+     {
+      "n": "Kavurmalı",
+      "ne": "Roasted Meat",
+      "p": 490,
+      "ing": "Tost ekmeği, et kavurma, kaşar peyniri",
+      "inge": "Toast bread, roasted meat, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "toast"
+     },
+     {
+      "n": "Sucuklu",
+      "ne": "Sucuk",
+      "p": 410,
+      "ing": "Tost ekmeği, sucuk, kaşar peyniri",
+      "inge": "Toast bread, sucuk, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "toast"
+     },
+     {
+      "n": "Karışık",
+      "ne": "Mixed",
+      "p": 440,
+      "ing": "Tost ekmeği, sucuk, salam, kaşar peyniri",
+      "inge": "Toast bread, sucuk, salami, cheddar",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "toast"
+     },
+     {
+      "n": "Beyaz Peynirli",
+      "ne": "White Cheese",
+      "p": 400,
+      "d": "Domates",
+      "de": "Tomato",
+      "ing": "Domates",
+      "inge": "Tomato",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "toast"
+     }
+    ]
+   }
+  ],
+  "t": 5
+ },
+ {
+  "id": "tatli",
+  "tr": "Tatlılar",
+  "en": "Desserts",
+  "str": "Fırın tatlıları, dondurma, tabaklar",
+  "sen": "Baked sweets, ice cream, plates",
+  "g": [
+   {
+    "tr": "Tatlılar",
+    "en": "Sweets",
+    "i": [
+     {
+      "n": "Cheesecake Çeşitleri",
+      "ne": "Cheesecake Varieties",
+      "p": 360,
+      "d": "Limonlu, frambuazlı, çikolatalı",
+      "de": "Lemon, raspberry, chocolate",
+      "ing": "Limonlu, frambuazlı, çikolatalı",
+      "inge": "Lemon, raspberry, chocolate",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Sufle",
+      "ne": "Soufflé",
+      "p": 360,
+      "ing": "Çikolata, yumurta, un, tereyağı, şeker",
+      "inge": "Chocolate, egg, flour, butter, sugar",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Tiramisu",
+      "ne": "Tiramisu",
+      "p": 360,
+      "ing": "Kedidili bisküvi, mascarpone, kahve, kakao, yumurta",
+      "inge": "Ladyfingers, mascarpone, coffee, cocoa, egg",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Fırın Sütlaç",
+      "ne": "Oven-Baked Rice Pudding",
+      "p": 320,
+      "ing": "Süt, pirinç, şeker, nişasta",
+      "inge": "Milk, rice, sugar, starch",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Trileçe",
+      "ne": "Trileçe (Tres Leches)",
+      "p": 340,
+      "ing": "Kek, süt, krema, karamel sos",
+      "inge": "Sponge cake, milk, cream, caramel sauce",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Kazandibi",
+      "ne": "Kazandibi",
+      "p": 320,
+      "ing": "Süt, şeker, nişasta, pirinç unu",
+      "inge": "Milk, sugar, starch, rice flour",
+      "a": [
+       "G",
+       "M"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Dilim Pastalar",
+      "ne": "Cake Slices",
+      "p": 360,
+      "ing": "Kek, krema, çikolata veya meyve",
+      "inge": "Sponge cake, cream, chocolate or fruit",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Mozaik Pasta",
+      "ne": "Mosaic Cake",
+      "p": 360,
+      "ing": "Bisküvi, kakao, tereyağı, süt",
+      "inge": "Biscuit, cocoa, butter, milk",
+      "a": [
+       "G",
+       "M",
+       "Y",
+       "N"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Brownie",
+      "ne": "Brownie",
+      "p": 380,
+      "ing": "Çikolata, un, yumurta, tereyağı, ceviz",
+      "inge": "Chocolate, flour, egg, butter, walnut",
+      "a": [
+       "G",
+       "M",
+       "Y",
+       "N"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Magnolia Çeşitleri",
+      "ne": "Magnolia Varieties",
+      "p": 340,
+      "d": "Muzlu, çilekli, Oreolu",
+      "de": "Banana, strawberry, Oreo",
+      "ing": "Muzlu, çilekli, Oreolu",
+      "inge": "Banana, strawberry, Oreo",
+      "a": [
+       "G",
+       "M",
+       "Y"
+      ],
+      "ic": "cake"
+     },
+     {
+      "n": "Katmer",
+      "ne": "Katmer",
+      "p": 400,
+      "ing": "Yufka, kaymak, Antep fıstığı, tereyağı",
+      "inge": "Katmer pastry, clotted cream, pistachio, butter",
+      "a": [
+       "G",
+       "M",
+       "N"
+      ],
+      "ic": "kunefe"
+     },
+     {
+      "n": "Künefe",
+      "ne": "Künefe",
+      "p": 420,
+      "ing": "Kadayıf, dil peyniri, tereyağı, şerbet, Antep fıstığı",
+      "inge": "Kadayıf, cheese, butter, syrup, pistachio",
+      "a": [
+       "G",
+       "M",
+       "N"
+      ],
+      "ic": "kunefe"
+     }
+    ]
+   },
+   {
+    "tr": "Dondurma & Tabaklar",
+    "en": "Ice Cream & Plates",
+    "i": [
+     {
+      "n": "1 Top Dondurma",
+      "ne": "1 Scoop Ice Cream",
+      "p": 100,
+      "ing": "Süt, krema, şeker",
+      "inge": "Milk, cream, sugar",
+      "a": [
+       "M"
+      ],
+      "ic": "icecream"
+     },
+     {
+      "n": "4 Top Dondurma",
+      "ne": "4 Scoops Ice Cream",
+      "p": 380,
+      "ing": "Süt, krema, şeker",
+      "inge": "Milk, cream, sugar",
+      "a": [
+       "M"
+      ],
+      "ic": "icecream"
+     },
+     {
+      "n": "Meyve Tabağı",
+      "ne": "Fruit Plate",
+      "p": 500,
+      "ing": "Mevsim meyveleri",
+      "inge": "Seasonal fruits",
+      "ic": "fruit"
+     },
+     {
+      "n": "Çerez Tabağı",
+      "ne": "Nut & Snack Plate",
+      "p": 320,
+      "ing": "Karışık kuruyemiş ve kuru meyve",
+      "inge": "Mixed nuts and dried fruit",
+      "a": [
+       "M",
+       "N"
+      ],
+      "ic": "plate"
+     }
+    ]
+   }
+  ],
+  "t": 6
+ },
+ {
+  "id": "sicak",
+  "tr": "Sıcak İçecekler",
+  "en": "Hot Drinks",
+  "str": "Kahveler, çaylar, sıcak çikolata",
+  "sen": "Coffees, teas, hot chocolate",
+  "g": [
+   {
+    "tr": "Sıcak Kahveler",
+    "en": "Hot Coffees",
+    "i": [
+     {
+      "n": "Espresso",
+      "ne": "Espresso",
+      "p": 160,
+      "ing": "Çekirdek kahve",
+      "inge": "Espresso coffee",
+      "ic": "coffee"
+     },
+     {
+      "n": "Double Espresso",
+      "ne": "Double Espresso",
+      "p": 190,
+      "ing": "Çift shot espresso",
+      "inge": "Double shot espresso",
+      "ic": "coffee"
+     },
+     {
+      "n": "Macchiato",
+      "ne": "Macchiato",
+      "p": 180,
+      "ing": "Espresso, az süt köpüğü",
+      "inge": "Espresso, a touch of milk foam",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     },
+     {
+      "n": "Americano",
+      "ne": "Americano",
+      "p": 190,
+      "ing": "Espresso, sıcak su",
+      "inge": "Espresso, hot water",
+      "ic": "coffee"
+     },
+     {
+      "n": "Cafe Latte",
+      "ne": "Café Latte",
+      "p": 210,
+      "ing": "Espresso, süt, süt köpüğü",
+      "inge": "Espresso, milk, milk foam",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     },
+     {
+      "n": "Cappuccino",
+      "ne": "Cappuccino",
+      "p": 210,
+      "ing": "Espresso, süt, bol süt köpüğü",
+      "inge": "Espresso, milk, thick milk foam",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     },
+     {
+      "n": "Mocha",
+      "ne": "Mocha",
+      "p": 230,
+      "ing": "Espresso, süt, çikolata sosu",
+      "inge": "Espresso, milk, chocolate sauce",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     },
+     {
+      "n": "Karamel Mocha",
+      "ne": "Caramel Mocha",
+      "p": 230,
+      "ing": "Espresso, süt, çikolata sosu, karamel",
+      "inge": "Espresso, milk, chocolate sauce, caramel",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     },
+     {
+      "n": "White Mocha",
+      "ne": "White Mocha",
+      "p": 230,
+      "ing": "Espresso, süt, beyaz çikolata",
+      "inge": "Espresso, milk, white chocolate",
+      "a": [
+       "M"
+      ],
+      "ic": "coffee"
+     }
+    ]
+   },
+   {
+    "tr": "Türk Kahveleri & Klasikler",
+    "en": "Turkish Coffee & Classics",
+    "i": [
+     {
+      "n": "Bardak Çay",
+      "ne": "Glass of Tea",
+      "p": 60,
+      "ing": "Demlenmiş siyah çay",
+      "inge": "Brewed black tea",
+      "ic": "tea"
+     },
+     {
+      "n": "Fincan Çay",
+      "ne": "Cup of Tea",
+      "p": 80,
+      "ing": "Demlenmiş siyah çay",
+      "inge": "Brewed black tea",
+      "ic": "tea"
+     },
+     {
+      "n": "Türk Kahvesi",
+      "ne": "Turkish Coffee",
+      "p": 145,
+      "ing": "Türk kahvesi, su (şeker tercihe göre)",
+      "inge": "Turkish coffee, water (sugar to taste)",
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Double Türk Kahvesi",
+      "ne": "Double Turkish Coffee",
+      "p": 190,
+      "ing": "Çift porsiyon Türk kahvesi, su",
+      "inge": "Double portion Turkish coffee, water",
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Damla Sakızlı Türk Kahvesi",
+      "ne": "Turkish Coffee with Mastic",
+      "p": 145,
+      "ing": "Türk kahvesi, damla sakızı, su",
+      "inge": "Turkish coffee, mastic gum, water",
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Dibek Kahvesi",
+      "ne": "Dibek Coffee",
+      "p": 145,
+      "ing": "Dibekte dövülmüş kahve karışımı",
+      "inge": "Stone-ground dibek coffee blend",
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Menengiç Kahvesi",
+      "ne": "Terebinth Coffee",
+      "p": 145,
+      "ing": "Menengiç çekirdeği, süt",
+      "inge": "Terebinth seed, milk",
+      "a": [
+       "N"
+      ],
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Nescafe",
+      "ne": "Nescafé",
+      "p": 175,
+      "ing": "Hazır kahve, süt, sıcak su",
+      "inge": "Instant coffee, milk, hot water",
+      "a": [
+       "M"
+      ],
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Filtre Kahve",
+      "ne": "Filter Coffee",
+      "p": 180,
+      "ing": "Filtre kahve, su",
+      "inge": "Filter coffee, water",
+      "ic": "turkishcoffee"
+     },
+     {
+      "n": "Sahlep",
+      "ne": "Salep",
+      "p": 200,
+      "ing": "Süt, sahlep, tarçın",
+      "inge": "Milk, salep, cinnamon",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     },
+     {
+      "n": "Süt",
+      "ne": "Milk",
+      "p": 85,
+      "ing": "Süt",
+      "inge": "Milk",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     }
+    ]
+   },
+   {
+    "tr": "Sıcak Çikolata",
+    "en": "Hot Chocolate",
+    "i": [
+     {
+      "n": "Sıcak Çikolata",
+      "ne": "Hot Chocolate",
+      "p": 190,
+      "ing": "Süt, çikolata",
+      "inge": "Milk, chocolate",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     },
+     {
+      "n": "Caramel",
+      "ne": "Caramel",
+      "p": 205,
+      "ing": "Süt, beyaz çikolata, karamel",
+      "inge": "Milk, white chocolate, caramel",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     },
+     {
+      "n": "Çilek",
+      "ne": "Strawberry",
+      "p": 205,
+      "ing": "Süt, beyaz çikolata, çilek",
+      "inge": "Milk, white chocolate, strawberry",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     },
+     {
+      "n": "White",
+      "ne": "White",
+      "p": 205,
+      "ing": "Süt, beyaz çikolata",
+      "inge": "Milk, white chocolate",
+      "a": [
+       "M"
+      ],
+      "ic": "mug"
+     }
+    ]
+   },
+   {
+    "tr": "Meyveli Çaylar",
+    "en": "Fruit Teas",
+    "i": [
+     {
+      "n": "Karadut Çayı",
+      "ne": "Black Mulberry Tea",
+      "p": 90,
+      "ing": "Karadut aroması, sıcak su",
+      "inge": "Black mulberry infusion, hot water",
+      "ic": "tea"
+     },
+     {
+      "n": "Kivi Çayı",
+      "ne": "Kiwi Tea",
+      "p": 90,
+      "ing": "Kivi aroması, sıcak su",
+      "inge": "Kiwi infusion, hot water",
+      "ic": "tea"
+     },
+     {
+      "n": "Elma Çayı",
+      "ne": "Apple Tea",
+      "p": 90,
+      "ing": "Elma aroması, sıcak su",
+      "inge": "Apple infusion, hot water",
+      "ic": "tea"
+     },
+     {
+      "n": "Nane Limon",
+      "ne": "Mint & Lemon",
+      "p": 90,
+      "ing": "Nane limon aroması, sıcak su",
+      "inge": "Mint & lemon infusion, hot water",
+      "ic": "tea"
+     }
+    ]
+   },
+   {
+    "tr": "Bitki Çayları",
+    "en": "Herbal Teas",
+    "i": [
+     {
+      "n": "Yeşil Çay",
+      "ne": "Green Tea",
+      "p": 190,
+      "ing": "Yeşil çay yaprağı",
+      "inge": "Green tea leaves",
+      "ic": "tea"
+     },
+     {
+      "n": "Ada Çayı",
+      "ne": "Sage Tea",
+      "p": 190,
+      "ing": "Adaçayı yaprağı",
+      "inge": "Sage leaves",
+      "ic": "tea"
+     },
+     {
+      "n": "Ihlamur",
+      "ne": "Linden Tea",
+      "p": 190,
+      "ing": "Ihlamur çiçeği",
+      "inge": "Linden blossom",
+      "ic": "tea"
+     },
+     {
+      "n": "Nane Limon",
+      "ne": "Mint & Lemon",
+      "p": 190,
+      "ing": "Taze nane, limon",
+      "inge": "Fresh mint, lemon",
+      "ic": "tea"
+     },
+     {
+      "n": "Papatya Çayı",
+      "ne": "Chamomile Tea",
+      "p": 190,
+      "ing": "Papatya çiçeği",
+      "inge": "Chamomile flowers",
+      "ic": "tea"
+     },
+     {
+      "n": "Melisa Çayı",
+      "ne": "Lemon Balm Tea",
+      "p": 190,
+      "ing": "Melisa (oğul otu) yaprağı",
+      "inge": "Lemon balm leaves",
+      "ic": "tea"
+     },
+     {
+      "n": "Taze Zencefil Çayı",
+      "ne": "Fresh Ginger Tea",
+      "p": 190,
+      "ing": "Taze zencefil, limon, bal",
+      "inge": "Fresh ginger, lemon, honey",
+      "ic": "tea"
+     },
+     {
+      "n": "Kış Çayı",
+      "ne": "Winter Tea",
+      "p": 190,
+      "ing": "Karışık kış bitkileri, tarçın, karanfil, limon",
+      "inge": "Winter herb blend, cinnamon, clove, lemon",
+      "ic": "tea"
+     }
+    ]
+   }
+  ],
+  "t": 7
+ },
+ {
+  "id": "soguk",
+  "tr": "Soğuk İçecekler",
+  "en": "Cold Drinks",
+  "str": "Kokteyller, smoothie, meyve suları",
+  "sen": "Mocktails, smoothies, fresh juices",
+  "g": [
+   {
+    "tr": "Soğuk Kahveler",
+    "en": "Iced Coffees",
+    "i": [
+     {
+      "n": "Ice Latte",
+      "ne": "Iced Latte",
+      "p": 230,
+      "ing": "Espresso, soğuk süt, buz",
+      "inge": "Espresso, cold milk, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "icedcoffee"
+     },
+     {
+      "n": "Ice Mocha",
+      "ne": "Iced Mocha",
+      "p": 240,
+      "ing": "Espresso, soğuk süt, çikolata sosu, buz",
+      "inge": "Espresso, cold milk, chocolate sauce, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "icedcoffee"
+     },
+     {
+      "n": "Ice Caramel Latte",
+      "ne": "Iced Caramel Latte",
+      "p": 240,
+      "ing": "Espresso, soğuk süt, karamel, buz",
+      "inge": "Espresso, cold milk, caramel, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "icedcoffee"
+     },
+     {
+      "n": "Ice White Mocha",
+      "ne": "Iced White Mocha",
+      "p": 240,
+      "ing": "Espresso, soğuk süt, beyaz çikolata, buz",
+      "inge": "Espresso, cold milk, white chocolate, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "icedcoffee"
+     },
+     {
+      "n": "Ice Americano",
+      "ne": "Iced Americano",
+      "p": 240,
+      "ing": "Espresso, soğuk su, buz",
+      "inge": "Espresso, cold water, ice",
+      "ic": "icedcoffee"
+     },
+     {
+      "n": "Frappe",
+      "ne": "Frappé",
+      "p": 240,
+      "d": "Karamel veya vanilya",
+      "de": "Caramel or vanilla",
+      "ing": "Karamel veya vanilya",
+      "inge": "Caramel or vanilla",
+      "a": [
+       "M"
+      ],
+      "ic": "icedcoffee"
+     }
+    ]
+   },
+   {
+    "tr": "Alkolsüz Kokteyller",
+    "en": "Non-Alcoholic Cocktails",
+    "i": [
+     {
+      "n": "Blue Angel",
+      "ne": "Blue Angel",
+      "p": 270,
+      "d": "Süt, ananas, vanilya şurubu, coconut püre",
+      "de": "Milk, pineapple, vanilla syrup, coconut purée",
+      "ing": "Süt, ananas, vanilya şurubu, coconut püre",
+      "inge": "Milk, pineapple, vanilla syrup, coconut purée",
+      "a": [
+       "M"
+      ],
+      "ic": "cocktail"
+     },
+     {
+      "n": "Ultra Violet",
+      "ne": "Ultra Violet",
+      "p": 270,
+      "d": "Ahududu püresi, limon suyu, soda",
+      "de": "Raspberry purée, lemon juice, soda",
+      "ing": "Ahududu püresi, limon suyu, soda",
+      "inge": "Raspberry purée, lemon juice, soda",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Green Fairy",
+      "ne": "Green Fairy",
+      "p": 270,
+      "d": "Elma suyu, limonata, blue curaçao, mango püre, passion püre",
+      "de": "Apple juice, lemonade, blue curaçao, mango purée, passion fruit purée",
+      "ing": "Elma suyu, limonata, blue curaçao, mango püre, passion püre",
+      "inge": "Apple juice, lemonade, blue curaçao, mango purée, passion fruit purée",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Karpuz, Pancar, Karadut Üçlüsü",
+      "ne": "Watermelon, Beetroot & Mulberry Trio",
+      "p": 270,
+      "d": "Elma suyu, karpuz, çilek, karadut, pancar, bal",
+      "de": "Apple juice, watermelon, strawberry, black mulberry, beetroot, honey",
+      "ing": "Elma suyu, karpuz, çilek, karadut, pancar, bal",
+      "inge": "Apple juice, watermelon, strawberry, black mulberry, beetroot, honey",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Kök Mix",
+      "ne": "Kök Mix",
+      "p": 270,
+      "s": 1,
+      "d": "Elma suyu, havuç balı, Nutella, muz, çilek",
+      "de": "Apple juice, carrot honey, Nutella, banana, strawberry",
+      "ing": "Elma suyu, havuç balı, Nutella, muz, çilek",
+      "inge": "Apple juice, carrot honey, Nutella, banana, strawberry",
+      "a": [
+       "M",
+       "N"
+      ],
+      "ic": "cocktail"
+     },
+     {
+      "n": "Klasik Mojito",
+      "ne": "Classic Mojito",
+      "p": 270,
+      "d": "Lime, esmer şeker, nane, Sprite",
+      "de": "Lime, brown sugar, mint, Sprite",
+      "ing": "Lime, esmer şeker, nane, Sprite",
+      "inge": "Lime, brown sugar, mint, Sprite",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Mojito Frega",
+      "ne": "Mojito Frega",
+      "p": 290,
+      "d": "Lime, esmer şeker, nane, Red Bull",
+      "de": "Lime, brown sugar, mint, Red Bull",
+      "ing": "Lime, esmer şeker, nane, Red Bull",
+      "inge": "Lime, brown sugar, mint, Red Bull",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Strawberry Mojito",
+      "ne": "Strawberry Mojito",
+      "p": 290,
+      "d": "Çilek, lime, esmer şeker, nane, Sprite",
+      "de": "Strawberry, lime, brown sugar, mint, Sprite",
+      "ing": "Çilek, lime, esmer şeker, nane, Sprite",
+      "inge": "Strawberry, lime, brown sugar, mint, Sprite",
+      "ic": "cocktail"
+     },
+     {
+      "n": "Apple Mojito",
+      "ne": "Apple Mojito",
+      "p": 290,
+      "d": "Elma, lime, esmer şeker, nane, Sprite",
+      "de": "Apple, lime, brown sugar, mint, Sprite",
+      "ing": "Elma, lime, esmer şeker, nane, Sprite",
+      "inge": "Apple, lime, brown sugar, mint, Sprite",
+      "ic": "cocktail"
+     }
+    ]
+   },
+   {
+    "tr": "Taze Sıkılmış Meyve Suları",
+    "en": "Fresh Squeezed Juices",
+    "i": [
+     {
+      "n": "Portakal",
+      "ne": "Orange",
+      "p": 240,
+      "ing": "Taze sıkılmış portakal",
+      "inge": "Freshly squeezed orange",
+      "ic": "juice"
+     },
+     {
+      "n": "Nar",
+      "ne": "Pomegranate",
+      "p": 250,
+      "ing": "Taze sıkılmış nar",
+      "inge": "Freshly squeezed pomegranate",
+      "ic": "juice"
+     },
+     {
+      "n": "Limonata",
+      "ne": "Lemonade",
+      "p": 240,
+      "ing": "Limon, su, şeker, nane",
+      "inge": "Lemon, water, sugar, mint",
+      "ic": "juice"
+     },
+     {
+      "n": "Çilekli Naneli",
+      "ne": "Strawberry & Mint",
+      "p": 260,
+      "ing": "Çilek, nane, limon, su",
+      "inge": "Strawberry, mint, lemon, water",
+      "ic": "juice"
+     },
+     {
+      "n": "KÖK ATO MIX",
+      "ne": "KÖK ATO MIX",
+      "p": 280,
+      "s": 1,
+      "d": "Portakal, havuç, elma, nar",
+      "de": "Orange, carrot, apple, pomegranate",
+      "ing": "Portakal, havuç, elma, nar",
+      "inge": "Orange, carrot, apple, pomegranate",
+      "ic": "juice"
+     }
+    ]
+   },
+   {
+    "tr": "Smoothie",
+    "en": "Smoothies",
+    "i": [
+     {
+      "n": "Çilekli",
+      "ne": "Strawberry",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Muzlu",
+      "ne": "Banana",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Elma",
+      "ne": "Apple",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Kivi",
+      "ne": "Kiwi",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Mango",
+      "ne": "Mango",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Şeftali",
+      "ne": "Peach",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Böğürtlen",
+      "ne": "Blackberry",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Kavun",
+      "ne": "Melon",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Karpuz",
+      "ne": "Watermelon",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Kırmızı Orman Meyveli",
+      "ne": "Red Berries",
+      "p": 280,
+      "ing": "Meyve, yoğurt, buz",
+      "inge": "Fruit, yoghurt, ice",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     }
+    ]
+   },
+   {
+    "tr": "Milkshake",
+    "en": "Milkshakes",
+    "i": [
+     {
+      "n": "Çilek",
+      "ne": "Strawberry",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Çikolata",
+      "ne": "Chocolate",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Vanilya",
+      "ne": "Vanilla",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Karamel",
+      "ne": "Caramel",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Muz",
+      "ne": "Banana",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     },
+     {
+      "n": "Oreo",
+      "ne": "Oreo",
+      "p": 280,
+      "ing": "Süt, dondurma, aroma",
+      "inge": "Milk, ice cream, flavouring",
+      "a": [
+       "M"
+      ],
+      "ic": "shake"
+     }
+    ]
+   },
+   {
+    "tr": "Frozen",
+    "en": "Frozen",
+    "i": [
+     {
+      "n": "Çilek",
+      "ne": "Strawberry",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Muz",
+      "ne": "Banana",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Elma",
+      "ne": "Apple",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Kivi",
+      "ne": "Kiwi",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Mango",
+      "ne": "Mango",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Şeftali",
+      "ne": "Peach",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Karadut",
+      "ne": "Black Mulberry",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Kavun",
+      "ne": "Melon",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Karpuz",
+      "ne": "Watermelon",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     },
+     {
+      "n": "Kırmızı Orman Meyveli",
+      "ne": "Red Berries",
+      "p": 280,
+      "ing": "Meyve püresi, buz, şeker şurubu",
+      "inge": "Fruit purée, ice, sugar syrup",
+      "ic": "shake"
+     }
+    ]
+   },
+   {
+    "tr": "Şişe & Kutu",
+    "en": "Bottles & Cans",
+    "i": [
+     {
+      "n": "Coca Cola",
+      "ne": "Coca Cola",
+      "p": 130,
+      "ing": "Gazlı içecek, kutu",
+      "inge": "Carbonated soft drink, can",
+      "ic": "bottle"
+     },
+     {
+      "n": "Coca Cola Zero",
+      "ne": "Coca Cola Zero",
+      "p": 130,
+      "ing": "Şekersiz gazlı içecek, kutu",
+      "inge": "Sugar-free carbonated soft drink, can",
+      "ic": "bottle"
+     },
+     {
+      "n": "Sprite",
+      "ne": "Sprite",
+      "p": 130,
+      "ing": "Limon aromalı gazlı içecek, kutu",
+      "inge": "Lemon-lime soft drink, can",
+      "ic": "bottle"
+     },
+     {
+      "n": "Fanta",
+      "ne": "Fanta",
+      "p": 130,
+      "ing": "Portakal aromalı gazlı içecek, kutu",
+      "inge": "Orange soft drink, can",
+      "ic": "bottle"
+     },
+     {
+      "n": "Ice Tea Şeftali",
+      "ne": "Ice Tea Peach",
+      "p": 130,
+      "ing": "Şeftali aromalı soğuk çay",
+      "inge": "Peach flavoured iced tea",
+      "ic": "bottle"
+     },
+     {
+      "n": "Ice Tea Limon",
+      "ne": "Ice Tea Lemon",
+      "p": 130,
+      "ing": "Limon aromalı soğuk çay",
+      "inge": "Lemon flavoured iced tea",
+      "ic": "bottle"
+     },
+     {
+      "n": "Sade Soda",
+      "ne": "Plain Soda",
+      "p": 100,
+      "ing": "Maden suyu",
+      "inge": "Sparkling mineral water",
+      "ic": "bottle"
+     },
+     {
+      "n": "Limonlu Soda",
+      "ne": "Lemon Soda",
+      "p": 110,
+      "ing": "Limon aromalı maden suyu",
+      "inge": "Lemon flavoured mineral water",
+      "ic": "bottle"
+     },
+     {
+      "n": "Elmalı Soda",
+      "ne": "Apple Soda",
+      "p": 110,
+      "ing": "Elma aromalı maden suyu",
+      "inge": "Apple flavoured mineral water",
+      "ic": "bottle"
+     },
+     {
+      "n": "Çilekli Soda",
+      "ne": "Strawberry Soda",
+      "p": 110,
+      "ing": "Çilek aromalı maden suyu",
+      "inge": "Strawberry flavoured mineral water",
+      "ic": "bottle"
+     },
+     {
+      "n": "Ayran",
+      "ne": "Ayran",
+      "p": 90,
+      "ing": "Yoğurt, su, tuz",
+      "inge": "Yoghurt, water, salt",
+      "a": [
+       "M"
+      ],
+      "ic": "ayran"
+     },
+     {
+      "n": "Naneli Ayran",
+      "ne": "Mint Ayran",
+      "p": 110,
+      "ing": "Yoğurt, su, tuz, nane",
+      "inge": "Yoghurt, water, salt, mint",
+      "a": [
+       "M"
+      ],
+      "ic": "ayran"
+     },
+     {
+      "n": "Su",
+      "ne": "Water",
+      "p": 60,
+      "ing": "Doğal kaynak suyu",
+      "inge": "Natural spring water",
+      "ic": "bottle"
+     },
+     {
+      "n": "Red Bull",
+      "ne": "Red Bull",
+      "p": 190,
+      "ing": "Enerji içeceği, kutu",
+      "inge": "Energy drink, can",
+      "ic": "bottle"
+     }
+    ]
+   }
+  ],
+  "t": 8
+ },
+ {
+  "id": "nargile",
+  "tr": "Nargile",
+  "en": "Shisha",
+  "str": "Al Fakher & Adalya, özel karışımlar",
+  "sen": "Al Fakher & Adalya, special mixes",
+  "g": [
+   {
+    "tr": "Klasik Nargileler",
+    "en": "Classic Shishas",
+    "note": "Al Fakher & Adalya · Tek fiyat",
+    "noteEn": "Al Fakher & Adalya · Single price",
+    "i": [
+     {
+      "n": "Üzüm",
+      "ne": "Grape",
+      "p": 750,
+      "ing": "Üzüm aromalı nargile tütünü",
+      "inge": "Grape flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Karpuz",
+      "ne": "Watermelon",
+      "p": 750,
+      "ing": "Karpuz aromalı nargile tütünü",
+      "inge": "Watermelon flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Çilek",
+      "ne": "Strawberry",
+      "p": 750,
+      "ing": "Çilek aromalı nargile tütünü",
+      "inge": "Strawberry flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Çift Elma",
+      "ne": "Double Apple",
+      "p": 750,
+      "ing": "Çift elma aromalı nargile tütünü",
+      "inge": "Double apple flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Cappuccino",
+      "ne": "Cappuccino",
+      "p": 750,
+      "ing": "Cappuccino aromalı nargile tütünü",
+      "inge": "Cappuccino flavoured shisha tobacco",
+      "a": [
+       "M"
+      ],
+      "ic": "shisha"
+     },
+     {
+      "n": "Çikolata",
+      "ne": "Chocolate",
+      "p": 750,
+      "ing": "Çikolata aromalı nargile tütünü",
+      "inge": "Chocolate flavoured shisha tobacco",
+      "a": [
+       "M"
+      ],
+      "ic": "shisha"
+     },
+     {
+      "n": "Nane",
+      "ne": "Mint",
+      "p": 750,
+      "ing": "Nane aromalı nargile tütünü",
+      "inge": "Mint flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Damla Sakızı",
+      "ne": "Mastic Gum",
+      "p": 750,
+      "ing": "Damla sakızı aromalı nargile tütünü",
+      "inge": "Mastic gum flavoured shisha tobacco",
+      "ic": "shisha"
+     },
+     {
+      "n": "Vanilya Kavun",
+      "ne": "Vanilla Melon",
+      "p": 750,
+      "ing": "Vanilya ve kavun aromalı nargile tütünü",
+      "inge": "Vanilla & melon flavoured shisha tobacco",
+      "ic": "shisha"
+     }
+    ]
+   },
+   {
+    "tr": "Al Fakher & Adalya Aromaları",
+    "en": "Al Fakher & Adalya Flavours",
+    "i": [
+     {
+      "n": "Love 66",
+      "ne": "Love 66",
+      "p": 750,
+      "ing": "Karpuz, passion meyvesi, çiçekler, kavun, çilek, mentol",
+      "inge": "Watermelon, passion fruit, flowers, melon, strawberry, menthol",
+      "ic": "shisha"
+     },
+     {
+      "n": "Lady Killer",
+      "ne": "Lady Killer",
+      "p": 750,
+      "ing": "Mango, kavun, çilek, nane",
+      "inge": "Mango, melon, strawberry, mint",
+      "ic": "shisha"
+     },
+     {
+      "n": "Pişmiş Şeftali",
+      "ne": "Baked Peach",
+      "p": 750,
+      "ing": "Fırınlanmış şeftali aroması",
+      "inge": "Baked peach flavour",
+      "ic": "shisha"
+     },
+     {
+      "n": "Bakü Night",
+      "ne": "Baku Night",
+      "p": 750,
+      "ing": "Oryantal meyveler, ice",
+      "inge": "Oriental fruits, ice",
+      "ic": "shisha"
+     },
+     {
+      "n": "İzmir Romantik",
+      "ne": "Izmir Romantic",
+      "p": 750,
+      "ing": "Kavun, karpuz, nane",
+      "inge": "Melon, watermelon, mint",
+      "ic": "shisha"
+     },
+     {
+      "n": "Marilyn Monroe",
+      "ne": "Marilyn Monroe",
+      "p": 750,
+      "ing": "Gül, yeşil limon, ice",
+      "inge": "Rose, lime, ice",
+      "ic": "shisha"
+     },
+     {
+      "n": "Karışık Meyve",
+      "ne": "Mixed Fruit",
+      "p": 750,
+      "ing": "Karışık meyve aroması",
+      "inge": "Mixed fruit flavour",
+      "ic": "shisha"
+     },
+     {
+      "n": "Moskova Night",
+      "ne": "Moscow Night",
+      "p": 750,
+      "ing": "Muz, orman meyveleri, mentol",
+      "inge": "Banana, forest fruits, menthol",
+      "ic": "shisha"
+     },
+     {
+      "n": "Dejavu",
+      "ne": "Dejavu",
+      "p": 750,
+      "ing": "Kavun, karpuz, nane, vanilya",
+      "inge": "Melon, watermelon, mint, vanilla",
+      "ic": "shisha"
+     },
+     {
+      "n": "Plombir",
+      "ne": "Plombir",
+      "p": 750,
+      "ing": "Buzlu çikolatalı dondurma aroması",
+      "inge": "Iced chocolate ice cream flavour",
+      "a": [
+       "M"
+      ],
+      "ic": "shisha"
+     }
+    ]
+   },
+   {
+    "tr": "Özel Nargile Karışımları",
+    "en": "Special Shisha Mixes",
+    "i": [
+     {
+      "n": "Moscow Night",
+      "ne": "Moscow Night",
+      "p": 800,
+      "d": "Muz, orman meyveleri ve mentol",
+      "de": "Banana, forest fruits and menthol",
+      "ing": "Muz, orman meyveleri ve mentol",
+      "inge": "Banana, forest fruits and menthol",
+      "ic": "shisha"
+     },
+     {
+      "n": "Bakü Nights",
+      "ne": "Baku Nights",
+      "p": 800,
+      "d": "Oryantal meyveler ve ice",
+      "de": "Oriental fruits and ice",
+      "ing": "Oryantal meyveler ve ice",
+      "inge": "Oriental fruits and ice",
+      "ic": "shisha"
+     },
+     {
+      "n": "Dejavu",
+      "ne": "Dejavu",
+      "p": 800,
+      "d": "Kavun, karpuz, nane ve vanilya",
+      "de": "Melon, watermelon, mint and vanilla",
+      "ing": "Kavun, karpuz, nane ve vanilya",
+      "inge": "Melon, watermelon, mint and vanilla",
+      "ic": "shisha"
+     },
+     {
+      "n": "Marilyn Monroe",
+      "ne": "Marilyn Monroe",
+      "p": 800,
+      "d": "Gül, yeşil limon, ice",
+      "de": "Rose, lime, ice",
+      "ing": "Gül, yeşil limon, ice",
+      "inge": "Rose, lime, ice",
+      "ic": "shisha"
+     },
+     {
+      "n": "İzmir Romantik",
+      "ne": "Izmir Romantic",
+      "p": 800,
+      "d": "Kavun, karpuz ve nane",
+      "de": "Melon, watermelon and mint",
+      "ing": "Kavun, karpuz ve nane",
+      "inge": "Melon, watermelon and mint",
+      "ic": "shisha"
+     },
+     {
+      "n": "Love 66",
+      "ne": "Love 66",
+      "p": 800,
+      "d": "Karpuz, passion meyvesi, çiçekler, kavun, çilek ve mentol",
+      "de": "Watermelon, passion fruit, flowers, melon, strawberry and menthol",
+      "ing": "Karpuz, passion meyvesi, çiçekler, kavun, çilek ve mentol",
+      "inge": "Watermelon, passion fruit, flowers, melon, strawberry and menthol",
+      "ic": "shisha"
+     },
+     {
+      "n": "Lady Killer",
+      "ne": "Lady Killer",
+      "p": 800,
+      "d": "Mango, kavun, çilek, nane",
+      "de": "Mango, melon, strawberry, mint",
+      "ing": "Mango, kavun, çilek, nane",
+      "inge": "Mango, melon, strawberry, mint",
+      "ic": "shisha"
+     },
+     {
+      "n": "Plombir",
+      "ne": "Plombir",
+      "p": 800,
+      "d": "Buzlu çikolatalı dondurma",
+      "de": "Iced chocolate ice cream",
+      "ing": "Buzlu çikolatalı dondurma",
+      "inge": "Iced chocolate ice cream",
+      "a": [
+       "M"
+      ],
+      "ic": "shisha"
+     },
+     {
+      "n": "KÖK Special 1",
+      "ne": "KÖK Special 1",
+      "p": 800,
+      "s": 1,
+      "d": "Meyveli karışım",
+      "de": "Fruity mix",
+      "ing": "Meyveli karışım",
+      "inge": "Fruity mix",
+      "ic": "shisha"
+     },
+     {
+      "n": "KÖK Special 2",
+      "ne": "KÖK Special 2",
+      "p": 800,
+      "s": 1,
+      "d": "Kahveli karışım",
+      "de": "Coffee mix",
+      "ing": "Kahveli karışım",
+      "inge": "Coffee mix",
+      "ic": "shisha"
+     }
+    ]
+   }
+  ],
+  "t": 9
+ }
+]

@@ -1,0 +1,134 @@
+MENÜYÜ GITHUB PAGES'TE YAYINLAMA — ADIM ADIM
+=============================================
+Süre: ~10 dakika. Ücretsiz. Kredi kartı istemez. Terminal gerekmez.
+
+
+NEDEN GITHUB PAGES
+-------------------
+• Microsoft/GitHub altyapısı — statik sayfa sunmakta en eski ve en
+  oturmuş hizmetlerden biri.
+• Sınırsız süre ücretsiz, reklam yok.
+• Kendi alan adını bağlayabilirsin, HTTPS otomatik ve ücretsiz.
+• Dosyayı tarayıcıdan sürükleyip bırakıyorsun; komut satırı yok.
+• Yaptığı tek iş dosya sunmak — bozulacak parça sayısı çok az.
+
+
+ADIM 1 — GitHub hesabı aç
+--------------------------
+github.com  →  Sign up
+Kullanıcı adı önemli, adresin bir parçası olacak. Öneri:
+      kokcafeistinye
+E-posta doğrulaması ister, 2 dakika sürer.
+
+
+ADIM 2 — Depo (repository) oluştur
+-----------------------------------
+Sağ üstteki  +  →  New repository
+
+Repository name kutusuna ŞUNU yaz (kendi kullanıcı adınla):
+
+      kokcafeistinye.github.io
+
+⚠ Kullanıcı adın neyse, tam olarak  KULLANICIADIN.github.io
+  olmalı. Bu isim sayesinde adres kısa olur.
+
+Public seçili kalsın (Private ücretli pakette çalışır).
+"Add a README file" kutusunu İŞARETLEME.
+Create repository'e bas.
+
+
+ADIM 3 — index.html'i yükle
+----------------------------
+Açılan sayfada  "uploading an existing file"  bağlantısına bas.
+(Ya da: Add file → Upload files)
+
+Masaüstündeki
+      KOK Cafe Menu / kok-menu-site / index.html
+dosyasını kutuya sürükle bırak.
+
+Aşağıdaki yeşil  "Commit changes"  düğmesine bas.
+
+
+ADIM 4 — Pages'i aç
+--------------------
+Deponun üstündeki  Settings  →  sol menüden  Pages
+
+Branch bölümünde:  None  yazan yeri  main  yap  →  Save
+
+1-2 dakika bekle, sayfayı yenile. Yukarıda şu çıkar:
+
+      https://kokcafeistinye.github.io
+
+Bu senin menü adresin. Telefonda açıp dene.
+
+
+ADIM 5 — Bana adresi söyle
+---------------------------
+Kesinleşen adresi yaz, şunları yeni adrese göre üretirim:
+   • QR kodu
+   • Masa kartı PDF'i
+
+⚠ Elindeki QR kod şu an Claude adresine gidiyor.
+  Yeni QR'ı benden almadan kart bastırma.
+
+
+===========================================================
+MENÜYÜ SONRADAN GÜNCELLEMEK
+===========================================================
+1. Menüyü aç → arama kutusuna  yönetici  yaz → PIN: 5053
+2. Değişikliği yap → "Kaydet ve Yayınla"
+   → sana index.html dosyasını indirir
+3. github.com → deponu aç → index.html dosyasına tıkla
+   → sağ üstteki kalem simgesinin yanındaki  ...  →  Delete file
+   → Commit
+4. Add file → Upload files → yeni index.html'i sürükle → Commit
+5. 1 dakika içinde canlıya geçer. QR kod aynı kalır.
+
+(Daha kısa yol: Add file → Upload files → aynı isimli dosyayı
+ yükle, GitHub üzerine yazar. Silmene gerek kalmaz.)
+
+
+===========================================================
+YEDEK ADRES — ASIL GÜVENCE BU
+===========================================================
+Hiçbir ücretsiz servis %100 çalışmaz. 2026'da Cloudflare iki kez
+çöktü ve internetin büyük kısmını yanında götürdü; Netlify'ın da,
+GitHub'ın da kesintileri oluyor. Tek servise bel bağlamak yerine:
+
+AYNI index.html'i İKİNCİ BİR YERE DE KOY.
+   pages.cloudflare.com  →  ücretsiz, doğrudan dosya yükleme var
+   ya da  app.netlify.com/drop
+
+Böylece biri çökerse elinde çalışan bir adres kalır.
+İki yeri de güncel tutmak 2 dakika sürer.
+
+
+===========================================================
+ASIL ÇÖZÜM: KENDİ ALAN ADIN
+===========================================================
+Senin derdin "servis çökerse ne olacak" — bunun gerçek cevabı
+kendi alan adına sahip olmak:
+
+      menu.kokcafe.com.tr
+
+QR kod bu adrese basılır. Barındırma servisi çökerse ya da
+beğenmezsen, alan adını 2 dakikada başka servise yönlendirirsin —
+BASILI KARTLARIN GEÇERLİLİĞİNİ KORUR.
+
+Alan adı olmadan, servis değiştirdiğin gün bütün kartları
+yeniden bastırman gerekir.
+
+Maliyet: yıllık birkaç yüz TL (Natro, İsimtescil, Turhost,
+Cloudflare Registrar). Barındırma yine ücretsiz kalır.
+
+
+===========================================================
+GÜVENLİK NOTU
+===========================================================
+Menü tek bir HTML dosyası olduğu için kaynağını herkes görebilir —
+yönetici PIN'i de dahil. Ama GitHub Pages / Netlify gibi statik
+bir sunucuda bu bir risk değil:
+
+Panele giren biri menüyü DEĞİŞTİREMEZ. Panel orada yalnızca sana
+bir dosya indirir. Canlı menüyü değiştirmek için GitHub hesabına
+girmek gerekir. Asıl kilit orada.

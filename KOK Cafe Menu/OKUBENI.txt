@@ -1,0 +1,71 @@
+KÖK CAFE LOUNGE — QR MENÜ  (Türkçe · English · العربية)
+========================================================
+
+MENÜ ADRESİ (QR kod buraya gider)
+https://claude.ai/code/artifact/276b5bd5-b091-4b5d-80a2-7950b0e6a599
+
+
+1) MÜŞTERİLERİN GÖREBİLMESİ İÇİN — TEK ADIM
+--------------------------------------------
+Menü şu an yalnızca senin hesabına açık.
+Sayfayı aç → sağ üstteki paylaşım (share) menüsü → erişimi
+"bağlantıya sahip herkes" yap. Sonra telefonunda gizli pencerede
+QR'ı okutup kontrol et.
+
+
+2) YÖNETİCİ PANELİ — GİZLİ GİRİŞ
+---------------------------------
+Üç yoldan girebilirsin:
+  a) Arama kutusunu aç (büyüteç), içine  yönetici  yaz
+     (İngilizce "admin", Arapça "مدير" de olur)
+  b) Adresin sonuna  #admin  ekle
+  c) Üstteki logoya ~1 saniye basılı tut
+
+PIN: 5053   → Ayarlar sekmesinden mutlaka değiştir.
+Menüde artık görünür bir "Yönetici" düğmesi YOK.
+
+Panelde yapabildiklerin:
+  • Fiyat, ürün adı (TR/EN/AR), içindekiler, alerjenler
+  • Fotoğraf ekleme (telefondan seç, otomatik küçültülür)
+  • "Tükendi" anahtarı — satırdaki yeşil düğme
+  • Ürün ekle / sil / sırala
+  • Telefon, WhatsApp, Instagram, Google bağlantısı, adres, slogan, PIN
+"Kaydet ve Yayınla" → menü aynı adreste anında güncellenir.
+QR KOD DEĞİŞMEZ.
+
+Güvenlik: PIN sadece paneli müşteriden gizler. Asıl koruma,
+yayınlamayı yalnızca senin Claude hesabının yapabilmesidir.
+
+
+3) BU KLASÖRDEKİ DOSYALAR
+--------------------------
+kok-masa-karti.pdf        Masalar için A6 kart (105×148 mm, 300 dpi)
+kok-qr.png                Sadece QR kod, yüksek çözünürlük
+KOK-alerjen-kontrol.xlsx  Alerjen/içerik kontrol listesi (mutfak düzeltsin)
+menu.html                 Menünün kaynak dosyası (yedek)
+
+kok-menu-site/index.html  Kendi sunucuna yükleyebileceğin tam sayfa
+kok-menu-site.zip         Aynısının sıkıştırılmış hali (sürükle-bırak için)
+
+kaynak/                   YAZILIMIN TAMAMI (kaynak kodu)
+kok-menu-yazilim.zip      Aynısının sıkıştırılmış hali
+                          → içindeki YAZILIM-NOTLARI.md her şeyi anlatır
+
+OKUBENI.txt               Bu dosya
+
+
+4) İLETİŞİM (menüde görünen)
+-----------------------------
+Adres     : İstinye, İstinye Cd. No:5, 34460 Sarıyer/İstanbul
+Telefon   : (0212) 277 50 53
+WhatsApp  : 902122775053  ← sabit hat; cep numarası varsa panelden değiştir
+Instagram : instagram.com/kokcafeistinye
+Google    : share.google/0tCOkrVSxEeCA2mTo
+
+
+5) AÇIK KALAN İŞ
+-----------------
+Alerjen ve içindekiler bilgileri TASLAKTIR. Ürün adlarından ve
+verdiğin malzeme listelerinden çıkarıldı. Mutfak ekibi
+KOK-alerjen-kontrol.xlsx üzerinden kontrol etsin; düzeltilmiş
+dosyayı bana gönder, menüyü güncelleyeyim.
